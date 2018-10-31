@@ -1,5 +1,5 @@
-# hirichardhai.github.io
-My portfolio website hosted through the domain name above
+# richard-hai.github.io
+Welcome to my personal portfolio code source! You can visit the site at the link above.
 
 ## Technologies Used:
 * HTML
@@ -8,6 +8,5 @@ My portfolio website hosted through the domain name above
 * Gulp
 * jQuery
 * JavaScript
-* FormSpree
-* Twitter Bootstrap
+* Bootstrap
 * GitHub Pages
