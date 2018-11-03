@@ -1,5 +1,5 @@
 # richard-hai.github.io
-Welcome to my personal portfolio code source! You can visit the site at the link above.
+Welcome to my personal portfolio source code.  Please feel free to explore the site and click on each portfolio container to see more information about the projects.
 
 ## Technologies Used:
 * HTML
