@@ -1,5 +1,5 @@
-# richard-hai.github.io
-Welcome to my personal portfolio code source! You can visit the site at the link above.
+# Richard's Personal Portfolio
+Welcome to my personal portfolio code source! You can visit the site at https://richard-hai.github.io/
 
 ## Technologies Used:
 * HTML
@@ -10,3 +10,6 @@ Welcome to my personal portfolio code source! You can visit the site at the link
 * JavaScript
 * Bootstrap
 * GitHub Pages
+
+## Contact e-mail
+hiRichardHai@gmail.com
