@@ -3,6 +3,3 @@ Welcome to my personal portfolio source code.  Please feel free to explore the s
 
 ##
 https://richard-hai.github.io/
-
-## Contact e-mail
-hiRichardHai@gmail.com
